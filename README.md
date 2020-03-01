@@ -1,2 +1,2 @@
 # Minesweeper
-Excel版扫雷
+## Excel版的扫雷，需要用到VBA
